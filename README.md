@@ -1,16 +1,23 @@
-### Hi there 👋
+Building the **_Segfault Tech_** startup to help companies to create digital products with good software.
 
-<!--
-**rfdss/rfdss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer with 8 years of experience on Web Development, and almost 2 years of experience with Mobile Developemnt.
 
-Here are some ideas to get you started:
+Technologies I master:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML, CSS, SASS, and libs like Tailwind;
+- JavaScript/TypeScript;
+- Node.js and your ecosystem like NestJS framework;
+- Vue.js, React.js, React Native;
+- Python, Flask, FastAPI, SQLAlchemy, Pandas, a little bit of Django and more;
+- SQL and some DBMS like MySQL, Postgres and a little bit of SQL Server;
+- AWS products like AWS Lambda, CloudFormation, CloudFront, RDS, Beanstalk, CloudWatch, SQS and more;
+- Google Cloud similar of AWS products;
+
+
+Technologie I experienced:
+
+- .NET Core and C#;
+- Java and Spring;
+- Go lang;
+
+Please feel free to contact me. \o/

@@ -36,4 +36,4 @@ Feel free to get in touch 👇🏼
 
 E-mail: rafaeldss.dev@gmail.com
 
-WhatsApp: +5512991978631
+Cellphone: +5512991978631

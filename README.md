@@ -1,23 +1,38 @@
-Building the **_Segfault Tech_** startup to help companies to create digital products with good software.
+I'm 8 years old Software Developer, mainly in web development. I have worked as a front-end and back-end developer on several projects in different areas like Digital Agency, CX Startup, Fintech Startup, Cybersecurity company, E-Commerce and a Software House for Mobile apps. Currently I have focused on full-stack challenges but I can work as a specialist as well.
 
-I'm a Software Developer with 8 years of experience on Web Development, and almost 2 years of experience with Mobile Developemnt.
+#### Main stack:
 
-Technologies I master:
+✔️ Cloud Computing: AWS and GCP;
 
-- HTML, CSS, SASS, and libs like Tailwind;
-- JavaScript/TypeScript;
-- Node.js and your ecosystem like NestJS framework;
-- Vue.js, React.js, React Native;
-- Python, Flask, FastAPI, SQLAlchemy, Pandas, a little bit of Django and more;
-- SQL and some DBMS like MySQL, Postgres and a little bit of SQL Server;
-- AWS products like AWS Lambda, CloudFormation, CloudFront, RDS, Beanstalk, CloudWatch, SQS and more;
-- Google Cloud similar of AWS products;
+✔️ Containers with Docker and Linux lover;
 
+✔️ Backend: Node.js, TypeScript, Express, NestJS, Prisma, TypeORM, Drizzle;
 
-Technologie I experienced:
+✔️ Databases: MySQL, Postgres, MongoDB, DynamoDB, Redis, Elasticsearch;
 
-- .NET Core and C#;
-- Java and Spring;
-- Go lang;
+✔️ HTML, CSS, JavaScript, SASS, Bootstrap, TailwindCSS;
 
-Please feel free to contact me. \o/
+✔️ Vue.js 2 and 3, Vuex, Pinia;
+
+✔️ React, Next.js, Context API, Redux, Zustand, React Hooks, React Native;
+
+---
+
+#### Soft skills:
+
+✔️ Good communication;
+
+✔️ Oriented to solve problems;
+
+✔️ Proactive;
+
+✔️ Self-learning;
+
+✔️ Team reference.
+
+---
+
+Feel free to get in touch 👇🏼
+
+E-mail: rafaeldss.dev@gmail.com
+WhatsApp: +5512991978631

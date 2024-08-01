@@ -1,12 +1,12 @@
-I'm 8 years old Software Developer, mainly in web development. I have worked as a front-end and back-end developer on several projects in different areas like Digital Agency, CX Startup, Fintech Startup, Cybersecurity company, E-Commerce and a Software House for Mobile apps. Currently I have focused on full-stack challenges but I can work as a specialist as well.
+👋 Hey! I’ve been a web developer for 8 years. I’ve done front-end and back-end work in various fields — digital agencies, startups (CX, fintech), cybersecurity, e-commerce, and mobile apps. Lately, I’m diving into full-stack challenges, but I can also specialize when needed. Let’s chat tech! 😊🚀
 
 #### Main stack:
 
 ✔️ Cloud Computing: AWS and GCP;
 
-✔️ Containers with Docker and Linux lover;
+✔️ Containers with Docker and Linux;
 
-✔️ Backend: Node.js, TypeScript, Express, NestJS, Prisma, TypeORM, Drizzle;
+✔️ Backend: Node.js (TypeScript), Express, NestJS, Prisma, TypeORM, Drizzle;
 
 ✔️ Databases: MySQL, Postgres, MongoDB, DynamoDB, Redis, Elasticsearch;
 
@@ -35,5 +35,3 @@ I'm 8 years old Software Developer, mainly in web development. I have worked as 
 Feel free to get in touch 👇🏼
 
 E-mail: rafaeldss.dev@gmail.com
-
-Cellphone: +5512991978631
